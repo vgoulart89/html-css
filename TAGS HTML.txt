@@ -1,0 +1,80 @@
+Anotações HTML
+
+títulos e subtitulos
+h1
+h2
+h3
+h4
+h5
+
+
+CTRL+Shift+P - envelopar Ex: selecione a palavra desejada, ctrl+shift+P, digite a abreviation no campo no alto
+
+small -texto pequeno
+
+Strong(semantica) ou b - negrito
+
+em (semantica) ou i- itálico
+
+del - riscar o texto 
+
+ins - texto inserido , fica sublinhado .... tag u (não seman)- sublinhado
+
+sup -  texto sobrescrito x2+x=0
+
+sub -  texto subscrito H2O
+
+code - fonte monoespaçada - se envelopar o code com pre, a formatação fica igual no codigo.
+
+Shif+Tab - move  que estiver selecionado pro lado
+
+q - citação, coloca aspas
+
+blockquote- citação em bloco,quebra de linha e aparece deslocada para direita. se blockquote cite= url do livro
+
+abbr - abreviações, inserir em Title o significado da abreviação
+
+bdo "rtl" ou "ltr" - texto invertido
+
+mark - marca texto/ grifado
+
+style background color   -  muda de cor ex: <mark style= background-color: cordesejada;">
+se criar style dentro de "head", a cor será aplicada para todas as marcações
+<head>
+	<style>
+		mark{
+		     background-color: limegreen;
+		     }
+	<\style>
+<\head>
+
+Listas
+ol - ordered list
+li - list item, cada item dentro da ol precisa do li
+ol+type (pode ser 1, A, a ou I/i para num romanos)+start( para começar a partir daquele num) 
+
+ul- unoordered list, lista nao ordenada
+li- list item
+ul+type( circle, disc, square)
+
+lista dentro de lista, abrir ol ou ul abaixo de li
+ol
+	li antigos li
+	ol type= 
+		li banana li
+		li laranja li
+	ol
+
+	li novos li
+	ol type
+		li limao li
+
+clicar nas tags que vc deseja alterar de uma so vez com tecla ALT
+
+
+
+
+
+
+
+

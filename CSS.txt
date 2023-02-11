@@ -1,0 +1,85 @@
+cores primarias: amarelo, vermelho e azul
+cores secundarias: laranja, violeta e verde
+cores terciarias: amarelo-esverdeado, amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado, azul-esverdeado.
+
+
+cores complementares: cores opostas, que dão contraste
+
+cores análogas: não tem contrate entre elas mas tem harmonia.Cores vizinhas
+
+cores analogas relacionadas: criam degrade mas nao criam contraste
+
+cores intercaladas: 
+cores triadicas:escolhe uma, e pula tres(escolhe a quarta) para os dois lados
+cores em quadrado: um em cada hemisferio
+Cores tetradicas: formam um retangulo
+monocromia: um mesma cor, muda saturação e luminosidade - degrade
+
+sites paletas de cores
+color adobe
+paletton
+coolors
+
+css web safe font combinations - site para fontes
+
+medidas absolutas
+cm, mm, in, px, pt, pc
+
+medidas relativas
+em, ex, rem, vw, vh, %
+16px geralmente = 1em
+
+use px ou em
+
+
+font-size: tamanho ex: 1em
+font-weight: lighter normal bold ou bolder ou 100 - 900 (de 100 em 100) não se aplica para qualqquer fonte
+font-style: italic;
+text-decoration: underline; 
+ ou
+font: italic bolder 3em 'Work Sans', sans-serif; - ordem correcta: font-style->font-weight->font-size->font-family
+
+
+Fontes
+google font
+dafont.com
+chromewebstore
+
+Playlist 2
+
+detectar fontes em imagens
+whatfontis.com - o melhor
+fontsquirrel.com
+myfonts.com
+
+
+id é unico #
+class varios .
+pseudo elementos ::
+pseudo class :
+Children >
+
+height : altura
+width: largura
+border: borda
+padding: espaço entre a borda e o conteudo
+margin: da borda pra fora
+outline: contorno da borda
+
+
+border: tamanho styke color
+exemplo
+border: 10px solid green
+
+padding: top right bottom left
+se forem iguais todas as medidas, colocar so uma medida
+padding: 10px
+
+div - box level
+span - inline level
+
+
+mockflow.com - criar layouts para sites
+
+
+
